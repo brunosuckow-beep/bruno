@@ -1,13 +1,13 @@
 # Calculadora Python
 
-Uma calculadora simples com as quatro operaçoes basicas.
+Uma calculadora simples com as quatro operações básicas.
 
 ## Funcionalidades
 
 - Soma
-- Subração
+- Subtração
 - Multiplicação
-- Divisão (com proteção contra divisão por sero)
+- Divisão (com proteção contra divisão por zero)
 
 ## Como usar
 
